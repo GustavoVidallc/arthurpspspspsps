@@ -1,7 +1,7 @@
 ### olá, eu sou o Arthur🐉
 
 
-- 🌱 estudando :desenvolvimento web
+- 🌱 estudando : Desenvolvimento web
 - 😄 Pronomes: ele/dele
 - ⚡ fato engraçado: O riso é contagioso. Quando vemos alguém rindo, tendemos a rir também, mesmo que não entendamos o motivo.
      Então sorria 😊
