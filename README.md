@@ -23,6 +23,6 @@
 <a href="https://github.com/arthurpspspspsps">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthurpspspspsps&show_icons=true&theme=tokyonight">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurpspspspsps&layout=compact&show_icons=true&theme=tokyonight">
-</div></div>
+</div>
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
